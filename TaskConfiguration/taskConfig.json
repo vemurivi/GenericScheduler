@@ -1,0 +1,9 @@
+{
+  "name": null,
+  "workerPath": null,
+  "cronSchedule": null,
+  "nextRunSchedule": null,
+  "apiURL": null,
+  "httpVerb": 0,
+  "paramater": null
+}
